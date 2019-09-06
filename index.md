@@ -10,16 +10,32 @@ Jeg er interesseret i ``datamatikerfaget`` fordi det i _allerhøjeste_ grad komb
 
 Hvilket er **superfedt** fordi jeg elsker at:
 * vi får hænderne i kode-bolledejen med det samme
+  * giver en følelse af selvstændighed
 * vi får lov til at anvende teorien med det vuns og se det udført i virkeligheden
+  * giver oplevelse af ejerskab
 * vi kan se vores indsats giver tjek - eller det modsatte - ved kasse 1, altså se produtket af vores arbejde
+  * giver en følelse af meningsfuldhed
 
 
 ### Indsatsområder
 
 De spændende udfordringer bliver til gengæld at:
-* jeg skal arbejde på min tålmodighed og ikke give op for let
-* jeg tro på mine egne evner og ikke lade mig forblænde af sidemandens niveau
+* jeg skal arbejde på min tålmodighed og  <del>ikke give op for let</del>
+  * acceptere at al begyndelse jo er svært for _næsten_ alle
+* jeg tro på mine egne evner og  <del>ikke lade mig forblænde af sidemandens niveau</del>
+ * det er ok, at vi lærer i forskellige tempi
 * jeg skal huske på at have en sund _life-work balance_
+  * at have et liv ved siden af har også betydning for ikke at brænde ud.
+
+Uanset er jeg ikke i tvivl om at der kommer mange ![aha-oplevelser](https://media1.giphy.com/media/l2YWzIKpMAi7UwGKk/200.webp?cid=790b76114987c3c145cba51e0b76d15a34fa7d5945884d25&rid=200.webp) __AHA-oplevelser__!
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+//
 
 
 
