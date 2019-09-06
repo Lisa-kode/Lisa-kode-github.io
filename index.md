@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lisa's page
 
 You can use the [editor on GitHub](https://github.com/Lisa-kode/Lisa-kode-github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
