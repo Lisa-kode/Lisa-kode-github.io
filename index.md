@@ -10,11 +10,11 @@ Jeg er interesseret i ``datamatikerfaget`` fordi det i _allerhøjeste_ grad komb
 
 Hvilket er **superfedt** fordi jeg elsker at:
 * vi får hænderne i kode-bolledejen med det samme
-  - [x] giver en følelse af selvstændighed
+  [x] giver en følelse af selvstændighed
 * vi får lov til at anvende teorien med det vuns og se det udført i virkeligheden
-  - [x] giver oplevelse af ejerskab
+  [x] giver oplevelse af ejerskab
 * vi kan se vores indsats giver tjek - eller det modsatte - ved kasse 1, altså se produtket af vores arbejde
-  - [x] giver en følelse af meningsfuldhed
+  [x] giver en følelse af meningsfuldhed
 
 
 ### Indsatsområder
