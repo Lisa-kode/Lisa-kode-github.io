@@ -25,6 +25,6 @@ De spændende udfordringer bliver til gengæld at:
 * jeg tro på mine egne evner og  <del>ikke lade mig forblænde af sidemandens niveau</del>
   - [x] det er ok, at vi lærer i forskellige tempi
 * jeg skal huske på at have en sund _life-work balance_
-  -[x] at have et liv ved siden af har også betydning for ikke at brænde ud.
+  - [x] at have et liv ved siden af har også betydning for ikke at brænde ud.
 
 Uanset er jeg ikke i tvivl om at der kommer mange ![aha-oplevelser](https://media1.giphy.com/media/l2YWzIKpMAi7UwGKk/200.webp?cid=790b76114987c3c145cba51e0b76d15a34fa7d5945884d25&rid=200.webp) __AHA-oplevelser__!
